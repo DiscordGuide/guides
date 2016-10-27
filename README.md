@@ -1,9 +1,9 @@
 # Discord Guides #
 ### Assistance with the world of discord #
 
-If you are curious about the guides, click the [wiki button](https://github.com/DiscordGuide/guides) on the top! 
+If you are curious about the guides, check out our [server](https://discord.gg/h67TkHf) and [site](httpL//discordguide.us) .
 
-If you are curious in our site, just click [here!](https://discord.gg/h67TkHf)
+If you are looking for a pastrami bagel... you're out of luck.
 
 **I will have them posted as wiki, and a private viewing for people with formatting and site details**
 
